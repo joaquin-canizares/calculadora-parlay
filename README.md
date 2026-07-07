@@ -21,5 +21,6 @@ any password, but it needs to meet these requirements to be accepted:
 - One lowercase letter
 - One number
 - One symbol
+
 If the password doesn't meet all the requirements, the program tells you 
 what's missing and asks you to try again.
