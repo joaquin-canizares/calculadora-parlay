@@ -24,3 +24,11 @@ any password, but it needs to meet these requirements to be accepted:
 
 If the password doesn't meet all the requirements, the program tells you 
 what's missing and asks you to try again.
+
+
+Project 4: Weather Consultation with API
+This program asks for you to type a city and after that it shows you:
+- Name of the city
+- Weather in degrees Celsius
+- Weather Description
+If you type an invalid name of a city the program lets you know the city wasn't found.
